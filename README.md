@@ -1,10 +1,10 @@
 
-# Serpent Client
+# Serpent Client (DISCONTINUED)
 This repository consists of the downloads for Serpent Client.
 
 ## Authors
 
-- [@forgoted](https://www.github.com/MasonD3V)
+- [@multision](https://www.github.com/multision)
 
 ## Features
 
